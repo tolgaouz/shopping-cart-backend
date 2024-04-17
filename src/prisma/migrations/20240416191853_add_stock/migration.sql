@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Shoe" ADD COLUMN     "stock" INTEGER NOT NULL DEFAULT 5;
