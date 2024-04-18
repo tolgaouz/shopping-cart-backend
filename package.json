@@ -4,8 +4,8 @@
   "description": " A basic starter for an express.js API with Typescript",
   "main": "src/index.ts",
   "scripts": {
-    "start": "ts-node src/index.ts",
-    "dev": "nodemon src/index.ts",
+    "start": "ts-node src/index.ts --project tsconfig.json",
+    "dev": "nodemon src/index.ts & stripe listen --forward-to localhost:4000/api/stripe/webhooks",
     "build": "tsc",
     "start:dist": "node dist/src/index.js",
     "lint": "eslint --fix src test",
@@ -33,6 +33,7 @@
     "express": "^4.19.2",
     "helmet": "^7.1.0",
     "morgan": "^1.10.0",
+    "stripe": "^15.2.0",
     "zod": "^3.22.4"
   },
   "devDependencies": {

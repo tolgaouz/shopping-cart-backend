@@ -1,12 +1,11 @@
 require("module-alias/register");
+require("dotenv").config();
 import express from "express";
 import morgan from "morgan";
 import helmet from "helmet";
 import cors from "cors";
 import * as middlewares from "./middlewares";
 import api from "./api";
-
-require("dotenv").config();
 
 const app = express();
 

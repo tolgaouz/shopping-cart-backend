@@ -2,8 +2,7 @@ import express, { Response } from "express";
 import { PrismaClient, Shoe } from "@prisma/client";
 import { z } from "zod";
 import { shoeModel } from "@/prisma/zod/shoe";
-
-const prisma = new PrismaClient();
+import { prisma } from "@/prisma";
 
 const router = express.Router();
 
@@ -40,7 +39,11 @@ router.get(
     let queryOptions: any = {
       take: parseInt(limit as string),
       skip: (parseInt(page as string) - 1) * parseInt(limit as string),
-      where: {},
+      where: {
+        stock: {
+          gt: 0,
+        },
+      },
       orderBy: {
         id: "asc",
       },
