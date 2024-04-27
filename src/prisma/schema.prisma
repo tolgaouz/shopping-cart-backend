@@ -11,20 +11,18 @@ datasource db {
   directUrl = env("DIRECT_URL")
 }
 
-model Shoe {
-  title         String
-  id            String @id @default(uuid())
-  price         Int
-  image         String
-  brand         String
-  outerMaterial String
-  innerMaterial String
-  stock         Int?   @default(5)
+model Shirt {
+  title    String
+  id       String @id @default(uuid())
+  price    Int
+  image    String
+  material String
+  color    String
+  stock    Int?   @default(5)
 
   @@index([title])
-  @@index([outerMaterial])
-  @@index([innerMaterial])
-  @@index([brand])
+  @@index([material])
+  @@index([color])
 }
 
 generator zod {

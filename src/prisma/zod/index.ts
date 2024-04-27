@@ -1,1 +1,1 @@
-export * from "./shoe"
+export * from "./shirt"

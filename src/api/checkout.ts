@@ -1,6 +1,5 @@
-import app from "@/app";
 import { prisma } from "@/prisma";
-import express, { Request } from "express";
+import express from "express";
 import { Stripe } from "stripe";
 import { ZodError, z } from "zod";
 
@@ -33,7 +32,7 @@ router.post("/payment-sheet", async (req, res) => {
     const { products } = paymentSheetBodySchema.parse(req.body);
     // Check stock availability
     const productIds = products.map((product) => product.id);
-    const productStock = await prisma.shoe.findMany({
+    const productStock = await prisma.shirt.findMany({
       select: { id: true, stock: true },
       where: { id: { in: productIds } },
     });
@@ -55,7 +54,7 @@ router.post("/payment-sheet", async (req, res) => {
     );
     // Fetch each product data from database and calculate the total amount
     // Only select the price field
-    const productPrices = await prisma.shoe.findMany({
+    const productPrices = await prisma.shirt.findMany({
       select: { price: true, id: true },
       where: {
         id: {
@@ -104,7 +103,7 @@ router.post("/success", async (req, res) => {
   const { products } = paymentSheetBodySchema.parse(req.body);
   // Subtract stock from the database
   for (const product of products) {
-    await prisma.shoe.update({
+    await prisma.shirt.update({
       where: { id: product.id },
       data: { stock: { decrement: product.quantity } },
     });
