@@ -15,12 +15,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211015-71483_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -40,12 +40,12 @@
     "item_category4": "Çizgili",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210593-18790_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -65,12 +65,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Black",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-82393_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -90,12 +90,12 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211014-70138_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -115,12 +115,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210810-70497_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -140,12 +140,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80790_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80790_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80790_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80790_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -165,12 +165,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sadece Onlineda_Smart_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/020579-83594_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-83594_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-83594_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-83594_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-83594_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-83594_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-83594_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-83594_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-83594_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-83594_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-83594_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-83594_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -190,11 +190,11 @@
     "item_category4": "Denim",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210940-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210940-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210940-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210940-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210940-18790_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210940-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210940-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210940-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210940-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210940-18790_image_5.jpg"
     ],
     "color": "Mavi"
   },
@@ -214,12 +214,12 @@
     "item_category4": "Dokulu",
     "item_category5": "Yeni Sezon_En Yeni_Sadece Onlineda",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211052-80106_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -239,12 +239,12 @@
     "item_category4": "Keten",
     "item_category5": "Mavi Black_Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-82393_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -264,12 +264,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Black",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-86816_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -289,12 +289,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Mavi Black_Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-900_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-900_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -314,12 +314,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Mavi Black_Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210874-70144_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -339,13 +339,13 @@
     "item_category4": "Çizgili",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Black",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211296-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211296-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211296-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211296-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211296-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211296-900_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211296-900_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211296-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211296-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211296-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211296-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211296-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211296-900_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211296-900_image_7.jpg"
     ],
     "color": "Siyah"
   },
@@ -365,12 +365,12 @@
     "item_category4": "Keten",
     "item_category5": "Mavi Black_Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-80932_image_6.jpg"
     ],
     "color": "Antrasit"
   },
@@ -390,12 +390,12 @@
     "item_category4": "Keten",
     "item_category5": "Mavi Black_Yeni Sezon_Keten_Kıvanç Mavisi_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-620_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-620_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-620_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-620_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-620_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210492-620_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-620_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-620_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-620_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-620_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-620_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210492-620_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -415,12 +415,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Black",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-70151_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -440,11 +440,11 @@
     "item_category4": "Keten",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Edition_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211009-80932_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211009-80932_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211009-80932_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211009-80932_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211009-80932_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211009-80932_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211009-80932_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211009-80932_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211009-80932_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211009-80932_image_5.jpg"
     ],
     "color": "Siyah"
   },
@@ -464,11 +464,11 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210220-87154_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210220-87154_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210220-87154_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210220-87154_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210220-87154_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210220-87154_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210220-87154_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210220-87154_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210220-87154_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210220-87154_image_5.jpg"
     ],
     "color": "Mavi"
   },
@@ -488,12 +488,12 @@
     "item_category4": "Denim",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86635_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -513,12 +513,12 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_Mavi Edition_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211067-87958_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -538,12 +538,12 @@
     "item_category4": "Keten",
     "item_category5": "En Yeni_Yeni Sezon_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211031-70718_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -563,12 +563,12 @@
     "item_category4": "Denim",
     "item_category5": "En Yeni_Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211048-82758_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -588,11 +588,11 @@
     "item_category4": "Çizgili",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Edition",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211037-80020_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211037-80020_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211037-80020_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211037-80020_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211037-80020_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211037-80020_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211037-80020_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211037-80020_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211037-80020_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211037-80020_image_5.jpg"
     ],
     "color": "Gri"
   },
@@ -612,11 +612,11 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Edition",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211027-620_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211027-620_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211027-620_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211027-620_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211027-620_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211027-620_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211027-620_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211027-620_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211027-620_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211027-620_image_5.jpg"
     ],
     "color": "Beyaz"
   },
@@ -636,12 +636,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70448_image_6.jpg"
     ],
     "color": "Kırmızı"
   },
@@ -661,12 +661,12 @@
     "item_category4": "Çizgili",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211284-80932_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -686,12 +686,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210878-18790_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -711,12 +711,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211030-620_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211030-620_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211030-620_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211030-620_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211030-620_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211030-620_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211030-620_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211030-620_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211030-620_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211030-620_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211030-620_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211030-620_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -736,12 +736,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211171-70490_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -761,11 +761,11 @@
     "item_category4": "Denim",
     "item_category5": "En Yeni_Yeni Sezon_90s Jean",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210910-86630_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210910-86630_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210910-86630_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210910-86630_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210910-86630_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210910-86630_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210910-86630_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210910-86630_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210910-86630_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210910-86630_image_5.jpg"
     ],
     "color": "Açık Mavi"
   },
@@ -785,12 +785,12 @@
     "item_category4": "Denim",
     "item_category5": "En Yeni_Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211016-18790_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -810,12 +810,12 @@
     "item_category4": "Keten",
     "item_category5": "En Yeni_Yeni Sezon_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-82577_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -835,10 +835,10 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-87153_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-87153_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-87153_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-87153_image_4.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-87153_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-87153_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-87153_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-87153_image_4.jpg"
     ],
     "color": "Mavi"
   },
@@ -858,12 +858,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71394_image_6.jpg"
     ],
     "color": "Turuncu"
   },
@@ -883,12 +883,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210876-81802_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -908,12 +908,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_Mavi Edition_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211076-70146_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -933,11 +933,11 @@
     "item_category4": "Keten",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Edition_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211009-70144_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211009-70144_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211009-70144_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211009-70144_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211009-70144_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211009-70144_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211009-70144_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211009-70144_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211009-70144_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211009-70144_image_5.jpg"
     ],
     "color": "Gri"
   },
@@ -957,12 +957,12 @@
     "item_category4": "Keten",
     "item_category5": "En Yeni_Yeni Sezon_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-70782_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -982,12 +982,12 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210822-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210822-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210822-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210822-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210822-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210822-900_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210822-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210822-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210822-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210822-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210822-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210822-900_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -1007,12 +1007,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-71807_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -1032,12 +1032,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70144_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -1057,11 +1057,11 @@
     "item_category4": "Çizgili",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Edition",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211038-70757_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211038-70757_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211038-70757_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211038-70757_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211038-70757_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211038-70757_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211038-70757_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211038-70757_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211038-70757_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211038-70757_image_5.jpg"
     ],
     "color": "Mavi"
   },
@@ -1081,12 +1081,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-620_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-620_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-620_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-620_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-620_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-620_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-620_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-620_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-620_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-620_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-620_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-620_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -1106,12 +1106,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211012-900_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211012-900_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -1131,15 +1131,15 @@
     "item_category4": "Baskılı",
     "item_category5": "En Yeni_Yeni Sezon_Wunder X Mavi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_7.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_8.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_9.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_7.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_8.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210929-87661_image_9.jpg"
     ],
     "color": "Bej"
   },
@@ -1159,11 +1159,11 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210877-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210877-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210877-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210877-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210877-900_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210877-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210877-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210877-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210877-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210877-900_image_5.jpg"
     ],
     "color": "Siyah"
   },
@@ -1183,12 +1183,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-71598_image_6.jpg"
     ],
     "color": "Yeşil"
   },
@@ -1208,14 +1208,14 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210930-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210930-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210930-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210930-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210930-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210930-900_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210930-900_image_7.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210930-900_image_8.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210930-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210930-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210930-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210930-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210930-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210930-900_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210930-900_image_7.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210930-900_image_8.jpg"
     ],
     "color": "Siyah"
   },
@@ -1235,12 +1235,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210884-70490_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -1260,12 +1260,12 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210909-86620_image_6.jpg"
     ],
     "color": "Ekru"
   },
@@ -1285,12 +1285,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210851-70369_image_6.jpg"
     ],
     "color": "Kahverengi"
   },
@@ -1310,12 +1310,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-70145_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -1335,12 +1335,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-85440_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -1360,11 +1360,11 @@
     "item_category4": "Çizgili",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Edition",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211037-82393_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211037-82393_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211037-82393_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211037-82393_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211037-82393_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211037-82393_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211037-82393_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211037-82393_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211037-82393_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211037-82393_image_5.jpg"
     ],
     "color": "Bej"
   },
@@ -1384,12 +1384,12 @@
     "item_category4": "Denim",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211044-18790_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -1409,12 +1409,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70283_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70283_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70283_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70283_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70283_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70283_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70283_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70283_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70283_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70283_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70283_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70283_image_6.jpg"
     ],
     "color": "Kahverengi"
   },
@@ -1434,11 +1434,11 @@
     "item_category4": "Dokulu",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Edition",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210818-70144_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210818-70144_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210818-70144_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210818-70144_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210818-70144_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210818-70144_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210818-70144_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210818-70144_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210818-70144_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210818-70144_image_5.jpg"
     ],
     "color": "Gri"
   },
@@ -1458,12 +1458,12 @@
     "item_category4": "Çizgili",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210953-70132_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -1483,12 +1483,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211029-620_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211029-620_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211029-620_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211029-620_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211029-620_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211029-620_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211029-620_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211029-620_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211029-620_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211029-620_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211029-620_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211029-620_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -1508,11 +1508,11 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_Mavi Edition_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210921-87949_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210921-87949_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210921-87949_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210921-87949_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210921-87949_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210921-87949_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210921-87949_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210921-87949_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210921-87949_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210921-87949_image_5.jpg"
     ],
     "color": "Mavi"
   },
@@ -1532,13 +1532,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_En Yeni_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-620_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-620_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-620_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-620_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-620_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-620_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-620_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-620_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-620_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-620_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-620_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-620_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-620_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-620_image_7.jpg"
     ],
     "color": "Beyaz"
   },
@@ -1558,11 +1558,11 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_Mavi Edition_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210861-70057_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210861-70057_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210861-70057_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210861-70057_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210861-70057_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210861-70057_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210861-70057_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210861-70057_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210861-70057_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210861-70057_image_5.jpg"
     ],
     "color": "Beyaz"
   },
@@ -1582,12 +1582,12 @@
     "item_category4": "Çizgili",
     "item_category5": "En Yeni_Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-71187_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -1607,12 +1607,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-80618_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -1632,12 +1632,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210821-70182_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -1657,12 +1657,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70120_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70120_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70120_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70120_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70120_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70120_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70120_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70120_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70120_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70120_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70120_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70120_image_6.jpg"
     ],
     "color": "Yeşil"
   },
@@ -1682,12 +1682,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86783_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86783_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86783_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86783_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86783_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86783_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86783_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86783_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86783_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86783_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86783_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86783_image_6.jpg"
     ],
     "color": "Kahverengi"
   },
@@ -1707,12 +1707,12 @@
     "item_category4": "Keten",
     "item_category5": "En Yeni_Yeni Sezon_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211293-85309_image_6.jpg"
     ],
     "color": "Antrasit"
   },
@@ -1732,12 +1732,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70877_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70877_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70877_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70877_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70877_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70877_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70877_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70877_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70877_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70877_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70877_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70877_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -1757,12 +1757,12 @@
     "item_category4": "Çizgili",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211026-70353_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -1782,12 +1782,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70857_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70857_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70857_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70857_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70857_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-70857_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70857_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70857_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70857_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70857_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70857_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-70857_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -1807,11 +1807,11 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210031-86632_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210031-86632_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210031-86632_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210031-86632_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210031-86632_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210031-86632_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210031-86632_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210031-86632_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210031-86632_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210031-86632_image_5.jpg"
     ],
     "color": "Lacivert"
   },
@@ -1831,12 +1831,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210840-71470_image_6.jpg"
     ],
     "color": "Yeşil"
   },
@@ -1856,12 +1856,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70134_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -1881,15 +1881,15 @@
     "item_category4": "Baskılı",
     "item_category5": "En Yeni_Yeni Sezon_Wunder X Mavi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_7.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_8.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_9.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_7.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_8.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210928-82128_image_9.jpg"
     ],
     "color": "Siyah"
   },
@@ -1909,12 +1909,12 @@
     "item_category4": "Denim",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211046-18790_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -1934,11 +1934,11 @@
     "item_category4": "Denim",
     "item_category5": "En Yeni_Yeni Sezon_Premium Blue",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210845-86634_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210845-86634_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210845-86634_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210845-86634_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210845-86634_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210845-86634_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210845-86634_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210845-86634_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210845-86634_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210845-86634_image_5.jpg"
     ],
     "color": "Açık Mavi"
   },
@@ -1958,11 +1958,11 @@
     "item_category4": "Dokulu",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Edition",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210818-84371_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210818-84371_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210818-84371_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210818-84371_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210818-84371_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210818-84371_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210818-84371_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210818-84371_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210818-84371_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210818-84371_image_5.jpg"
     ],
     "color": "Lacivert"
   },
@@ -1982,12 +1982,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -2007,13 +2007,13 @@
     "item_category4": "Denim",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211043-18790_image_7.jpg"
     ],
     "color": "Mavi"
   },
@@ -2033,12 +2033,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_Mavi Edition_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210860-70057_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -2058,12 +2058,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_6.jpg"
     ],
     "color": "Yeşil"
   },
@@ -2083,12 +2083,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021190-71075_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-71075_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-71075_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-71075_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-71075_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-71075_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-71075_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-71075_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-71075_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-71075_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-71075_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-71075_image_6.jpg"
     ],
     "color": "Turuncu"
   },
@@ -2108,11 +2108,11 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_Mavi Edition_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211078-70074_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211078-70074_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211078-70074_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211078-70074_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211078-70074_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211078-70074_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211078-70074_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211078-70074_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211078-70074_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211078-70074_image_5.jpg"
     ],
     "color": "Gri"
   },
@@ -2132,11 +2132,11 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/020579-83771_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-83771_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-83771_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-83771_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-83771_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-83771_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-83771_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-83771_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-83771_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-83771_image_5.jpg"
     ],
     "color": "Mavi"
   },
@@ -2156,12 +2156,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70145_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -2181,13 +2181,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210959-70092_image_7.jpg"
     ],
     "color": "Gri"
   },
@@ -2207,11 +2207,11 @@
     "item_category4": "Keten",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Edition_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210805-82393_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210805-82393_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210805-82393_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210805-82393_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210805-82393_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210805-82393_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210805-82393_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210805-82393_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210805-82393_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210805-82393_image_5.jpg"
     ],
     "color": "Bej"
   },
@@ -2231,13 +2231,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211295-70804_image_7.jpg"
     ],
     "color": "Mavi"
   },
@@ -2257,12 +2257,12 @@
     "item_category4": "Çizgili",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210956-70739_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -2282,14 +2282,14 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_7.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_8.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_7.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210862-70139_image_8.jpg"
     ],
     "color": "Gri"
   },
@@ -2309,12 +2309,12 @@
     "item_category4": "Denim",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211045-18790_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -2334,12 +2334,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021190-81802_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-81802_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-81802_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-81802_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-81802_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-81802_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-81802_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-81802_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-81802_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-81802_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-81802_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-81802_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -2359,12 +2359,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210835-70719_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -2384,11 +2384,11 @@
     "item_category4": "Denim",
     "item_category5": "Premium Blue_Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210784-86633_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210784-86633_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210784-86633_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210784-86633_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210784-86633_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210784-86633_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210784-86633_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210784-86633_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210784-86633_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210784-86633_image_5.jpg"
     ],
     "color": "Mavi"
   },
@@ -2408,12 +2408,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_En Yeni",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211172-70134_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -2433,11 +2433,11 @@
     "item_category4": "Keten",
     "item_category5": "En Yeni_Yeni Sezon_Mavi Edition_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210805-70144_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210805-70144_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210805-70144_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210805-70144_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210805-70144_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210805-70144_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210805-70144_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210805-70144_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210805-70144_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210805-70144_image_5.jpg"
     ],
     "color": "Gri"
   },
@@ -2457,12 +2457,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-86627_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-86627_image_6.jpg"
     ],
     "color": "Yeşil"
   },
@@ -2482,12 +2482,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_En Yeni_Keten",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70144_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70144_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70144_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70144_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70144_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70144_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70144_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70144_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70144_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70144_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70144_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70144_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -2507,11 +2507,11 @@
     "item_category4": "Denim",
     "item_category5": "En Yeni_Yeni Sezon_Everyday Casual",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021521-86621_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021521-86621_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021521-86621_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021521-86621_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021521-86621_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021521-86621_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021521-86621_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021521-86621_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021521-86621_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021521-86621_image_5.jpg"
     ],
     "color": "Mavi"
   },
@@ -2531,12 +2531,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "En Yeni_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/020579-71787_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-71787_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-71787_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-71787_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-71787_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-71787_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-71787_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-71787_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-71787_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-71787_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-71787_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-71787_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -2556,12 +2556,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Smart",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/020579-25705_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-25705_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-25705_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-25705_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-25705_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-25705_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-25705_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-25705_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-25705_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-25705_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-25705_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-25705_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -2581,13 +2581,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "Sadece Onlineda_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210933-70144_image_7.jpg"
     ],
     "color": "Gri"
   },
@@ -2607,12 +2607,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Sadece Onlineda_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210931-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210931-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210931-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210931-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210931-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210931-900_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210931-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210931-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210931-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210931-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210931-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210931-900_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -2632,11 +2632,11 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_Mavi Edition",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211079-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211079-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211079-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211079-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211079-18790_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211079-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211079-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211079-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211079-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211079-18790_image_5.jpg"
     ],
     "color": "Lacivert"
   },
@@ -2656,12 +2656,12 @@
     "item_category4": "Keten",
     "item_category5": "Yeni Sezon_Keten_Lux Touch_Kıvanç Mavisi_Smart",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021190-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-900_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-900_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -2681,11 +2681,11 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_Mavi Black",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210518-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210518-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210518-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210518-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210518-900_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210518-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210518-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210518-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210518-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210518-900_image_5.jpg"
     ],
     "color": "Siyah"
   },
@@ -2705,11 +2705,11 @@
     "item_category4": "Keten",
     "item_category5": "Mavi Black_Yeni Sezon_Keten_Kıvanç Mavisi",
     "images": [
-      "//sky-static.mavi.com/sys-master/maviTrImages/h59/h80/10031720693790",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h30/h7c/10031720529950",
-      "//sky-static.mavi.com/sys-master/maviTrImages/hcf/hfe/10031726821406",
-      "//sky-static.mavi.com/sys-master/maviTrImages/hc2/h83/10031720792094",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h13/h12/10031724003358"
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h59/h80/10031720693790",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h30/h7c/10031720529950",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hcf/hfe/10031726821406",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hc2/h83/10031720792094",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h13/h12/10031724003358"
     ],
     "color": "Siyah"
   },
@@ -2729,12 +2729,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Mavi Black_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211011-70092_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -2754,12 +2754,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Mavi Black_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210670-900_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210670-900_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -2779,11 +2779,11 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_Mavi Black_Smart_Lux Black",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210496-82410_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210496-82410_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210496-82410_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210496-82410_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210496-82410_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210496-82410_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210496-82410_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210496-82410_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210496-82410_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210496-82410_image_5.jpg"
     ],
     "color": "Antrasit"
   },
@@ -2803,11 +2803,11 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_Mavi Black_Bir Efsane_Lux Black_All Blue",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210496-83856_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210496-83856_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210496-83856_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210496-83856_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210496-83856_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210496-83856_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210496-83856_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210496-83856_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210496-83856_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210496-83856_image_5.jpg"
     ],
     "color": "Açık Mavi"
   },
@@ -2827,12 +2827,12 @@
     "item_category4": "Örme Gömlek",
     "item_category5": "Yeni Sezon_Mavi Black",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210812-900_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210812-900_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -2852,11 +2852,11 @@
     "item_category4": "Düz Renk",
     "item_category5": "Smart",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210698-620_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210698-620_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210698-620_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210698-620_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210698-620_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210698-620_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210698-620_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210698-620_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210698-620_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210698-620_image_5.jpg"
     ],
     "color": "Beyaz"
   },
@@ -2876,12 +2876,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-35108_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -2901,12 +2901,12 @@
     "item_category4": "Kareli",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211102-86762_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -2926,12 +2926,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Smart",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210698-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210698-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210698-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210698-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210698-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210698-900_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210698-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210698-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210698-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210698-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210698-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210698-900_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -2951,12 +2951,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211035-70899_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -2976,12 +2976,12 @@
     "item_category4": "Kareli",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210939-86740_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -3001,12 +3001,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210714-70718_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -3026,12 +3026,12 @@
     "item_category4": "Kareli",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211098-86758_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -3051,12 +3051,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70057_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -3076,12 +3076,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-82318_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -3101,12 +3101,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210949-82318_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -3126,12 +3126,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210339-71819_image_6.jpg"
     ],
     "color": "Kahverengi"
   },
@@ -3151,11 +3151,11 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210810-620_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210810-620_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210810-620_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210810-620_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210810-620_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210810-620_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210810-620_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210810-620_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210810-620_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210810-620_image_5.jpg"
     ],
     "color": "Beyaz"
   },
@@ -3175,12 +3175,12 @@
     "item_category4": "Kareli",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210806-86838_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -3200,12 +3200,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210816-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210816-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210816-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210816-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210816-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210816-900_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210816-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210816-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210816-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210816-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210816-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210816-900_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -3225,13 +3225,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211019-70380_image_7.jpg"
     ],
     "color": "Kahverengi"
   },
@@ -3251,12 +3251,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-70144_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -3276,12 +3276,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Sadece Onlineda_Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210932-71483_image_6.jpg"
     ],
     "color": "Yeşil"
   },
@@ -3301,12 +3301,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Smart",
     "images": [
-      "//sky-static.mavi.com/sys-master/maviTrImages/hea/hce/10168537710622",
-      "//sky-static.mavi.com/sys-master/maviTrImages/ha1/h54/10168536268830",
-      "//sky-static.mavi.com/sys-master/maviTrImages/hed/hde/10168538038302",
-      "//sky-static.mavi.com/sys-master/maviTrImages/hf6/h63/10168539545630",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h71/hc8/10168537546782",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h86/h6e/10168539217950"
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hea/hce/10168537710622",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/ha1/h54/10168536268830",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hed/hde/10168538038302",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hf6/h63/10168539545630",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h71/hc8/10168537546782",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h86/h6e/10168539217950"
     ],
     "color": "Lacivert"
   },
@@ -3326,13 +3326,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-81570_image_7.jpg"
     ],
     "color": "Yeşil"
   },
@@ -3352,12 +3352,12 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211023-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211023-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211023-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211023-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211023-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211023-900_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211023-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211023-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211023-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211023-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211023-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211023-900_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -3377,12 +3377,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210960-70117_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -3402,12 +3402,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210950-86765_image_6.jpg"
     ],
     "color": "Gri"
   },
@@ -3427,11 +3427,11 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Smart",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-32344_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-32344_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-32344_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-32344_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-32344_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-32344_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-32344_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-32344_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-32344_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-32344_image_5.jpg"
     ],
     "color": "Yeşil"
   },
@@ -3451,12 +3451,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211024-70353_image_6.jpg"
     ],
     "color": "Kahverengi"
   },
@@ -3476,13 +3476,13 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211047-18790_image_7.jpg"
     ],
     "color": "İndigo"
   },
@@ -3502,13 +3502,13 @@
     "item_category4": "Dokulu",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_7.jpg"
     ],
     "color": "Lacivert"
   },
@@ -3528,12 +3528,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Smart",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210294-900_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210294-900_image_6.jpg"
     ],
     "color": "Siyah"
   },
@@ -3553,13 +3553,13 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_7.jpg"
     ],
     "color": "Bej"
   },
@@ -3579,13 +3579,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_7.jpg"
     ],
     "color": "Mavi"
   },
@@ -3605,13 +3605,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021123-71484_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-71484_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-71484_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-71484_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-71484_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-71484_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-71484_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-71484_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-71484_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-71484_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-71484_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-71484_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-71484_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-71484_image_7.jpg"
     ],
     "color": "Yeşil"
   },
@@ -3631,11 +3631,11 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_Mavi Edition",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210918-88113_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210918-88113_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210918-88113_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210918-88113_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210918-88113_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210918-88113_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210918-88113_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210918-88113_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210918-88113_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210918-88113_image_5.jpg"
     ],
     "color": "Mavi"
   },
@@ -3655,12 +3655,12 @@
     "item_category4": "Keten",
     "item_category5": "Keten_Yeni Sezon_Smart",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70894_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70894_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70894_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70894_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70894_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021190-70894_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70894_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70894_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70894_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70894_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70894_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021190-70894_image_6.jpg"
     ],
     "color": "Lacivert"
   },
@@ -3680,13 +3680,13 @@
     "item_category4": "Dokulu",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210212-18790_image_7.jpg"
     ],
     "color": "Lacivert"
   },
@@ -3706,13 +3706,13 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211020-70072_image_7.jpg"
     ],
     "color": "Bej"
   },
@@ -3732,13 +3732,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-86798_image_7.jpg"
     ],
     "color": "Mavi"
   },
@@ -3758,13 +3758,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-900_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210944-900_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-900_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210944-900_image_7.jpg"
     ],
     "color": "Siyah"
   },
@@ -3784,12 +3784,12 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_Smart",
     "images": [
-      "//sky-static.mavi.com/sys-master/maviTrImages/h06/h04/10137851625502/Default-MainProductImage_0210527-70718_image_1.jpg",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h9e/h00/10137851527198/Default-MainProductImage_0210527-70718_image_2.jpg",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h5f/h02/10137851461662/Default-MainProductImage_0210527-70718_image_3.jpg",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h08/h02/10137851494430/Default-MainProductImage_0210527-70718_image_4.jpg",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h1e/h06/10137851330590/Default-MainProductImage_0210527-70718_image_5.jpg",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h5f/h01/10137851592734/Default-MainProductImage_0210527-70718_image_6.jpg"
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h06/h04/10137851625502/Default-MainProductImage_0210527-70718_image_1.jpg",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h9e/h00/10137851527198/Default-MainProductImage_0210527-70718_image_2.jpg",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h5f/h02/10137851461662/Default-MainProductImage_0210527-70718_image_3.jpg",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h08/h02/10137851494430/Default-MainProductImage_0210527-70718_image_4.jpg",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h1e/h06/10137851330590/Default-MainProductImage_0210527-70718_image_5.jpg",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h5f/h01/10137851592734/Default-MainProductImage_0210527-70718_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -3809,11 +3809,11 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_90s Jean_Back to School",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210031-82947_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210031-82947_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210031-82947_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210031-82947_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210031-82947_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210031-82947_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210031-82947_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210031-82947_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210031-82947_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210031-82947_image_5.jpg"
     ],
     "color": "Açık Mavi"
   },
@@ -3833,12 +3833,12 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_90s Jean",
     "images": [
-      "//sky-static.mavi.com/sys-master/maviTrImages/hb9/h96/10183159775262/Default-MainProductImage_",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h4d/hea/10183161741342/Default-MainProductImage_",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h25/he3/10183161511966/Default-MainProductImage_",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h7d/h76/10183160463390/Default-MainProductImage_",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h03/h8b/10183165575198/Default-MainProductImage_",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h08/ha5/10183159316510/Default-MainProductImage_"
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hb9/h96/10183159775262/Default-MainProductImage_",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h4d/hea/10183161741342/Default-MainProductImage_",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h25/he3/10183161511966/Default-MainProductImage_",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h7d/h76/10183160463390/Default-MainProductImage_",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h03/h8b/10183165575198/Default-MainProductImage_",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h08/ha5/10183159316510/Default-MainProductImage_"
     ],
     "color": "Antrasit"
   },
@@ -3858,13 +3858,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210053-70004_image_7.jpg"
     ],
     "color": "Beyaz"
   },
@@ -3884,12 +3884,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Smart",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021638-620_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021638-620_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021638-620_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021638-620_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021638-620_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021638-620_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021638-620_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021638-620_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021638-620_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021638-620_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021638-620_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021638-620_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -3909,12 +3909,12 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_Everyday Casual",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0295785223_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0295785223_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0295785223_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0295785223_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0295785223_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0295785223_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0295785223_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0295785223_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0295785223_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0295785223_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0295785223_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0295785223_image_6.jpg"
     ],
     "color": "Antrasit"
   },
@@ -3934,13 +3934,13 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon_Smart",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/020579-900_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-900_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-900_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-900_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-900_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-900_image_6.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/020579-900_image_7.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-900_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-900_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-900_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-900_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-900_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-900_image_6.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/020579-900_image_7.jpg"
     ],
     "color": "Siyah"
   },
@@ -3960,12 +3960,12 @@
     "item_category4": "Keten",
     "item_category5": "Keten_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84485_image_6.jpg"
     ],
     "color": "Beyaz"
   },
@@ -3985,11 +3985,11 @@
     "item_category4": "Çizgili",
     "item_category5": "Yeni Sezon_Smart",
     "images": [
-      "//sky-static.mavi.com/sys-master/maviTrImages/h70/h05/10137851396126/Default-MainProductImage_0210527-70057_image_1.jpg",
-      "//sky-static.mavi.com/sys-master/maviTrImages/hc7/h05/10137851363358/Default-MainProductImage_0210527-70057_image_2.jpg",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h2f/h09/10137851265054/Default-MainProductImage_0210527-70057_image_3.jpg",
-      "//sky-static.mavi.com/sys-master/maviTrImages/hd8/h08/10137851297822/Default-MainProductImage_0210527-70057_image_4.jpg",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h86/h09/10137851232286/Default-MainProductImage_0210527-70057_image_5.jpg"
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h70/h05/10137851396126/Default-MainProductImage_0210527-70057_image_1.jpg",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hc7/h05/10137851363358/Default-MainProductImage_0210527-70057_image_2.jpg",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h2f/h09/10137851265054/Default-MainProductImage_0210527-70057_image_3.jpg",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hd8/h08/10137851297822/Default-MainProductImage_0210527-70057_image_4.jpg",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h86/h09/10137851232286/Default-MainProductImage_0210527-70057_image_5.jpg"
     ],
     "color": "Gri"
   },
@@ -4009,12 +4009,12 @@
     "item_category4": "Keten",
     "item_category5": "Keten_Kıvanç Mavisi_Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210587-84486_image_6.jpg"
     ],
     "color": "Mavi"
   },
@@ -4034,11 +4034,11 @@
     "item_category4": "Denim",
     "item_category5": "Yeni Sezon_Bir Efsane_Mavi Denim Studio",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0210937-86737_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210937-86737_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210937-86737_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210937-86737_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0210937-86737_image_5.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0210937-86737_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210937-86737_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210937-86737_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210937-86737_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0210937-86737_image_5.jpg"
     ],
     "color": "Koyu Mavi"
   },
@@ -4058,12 +4058,12 @@
     "item_category4": "Kareli",
     "item_category5": "Yeni Sezon_Sezon İndirimi",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/0211103-86763_image_6.jpg"
     ],
     "color": "İndigo"
   },
@@ -4083,12 +4083,12 @@
     "item_category4": "Düz Renk",
     "item_category5": "Yeni Sezon",
     "images": [
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80697_image_1.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80697_image_2.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80697_image_3.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80697_image_4.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80697_image_5.jpg",
-      "//sky-static.mavi.com/mnresize/820/1162/021123-80697_image_6.jpg"
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80697_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80697_image_2.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80697_image_3.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80697_image_4.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80697_image_5.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/021123-80697_image_6.jpg"
     ],
     "color": "Bej"
   },
@@ -4108,12 +4108,12 @@
     "item_category4": "Keten",
     "item_category5": "Keten_Yeni Sezon_Lux Touch_Kıvanç Mavisi_Smart",
     "images": [
-      "//sky-static.mavi.com/sys-master/maviTrImages/hb4/h1e/10176414613534/Default-MainProductImage_",
-      "//sky-static.mavi.com/sys-master/maviTrImages/h3d/h15/10176414384158/Default-MainProductImage_",
-      "//sky-static.mavi.com/sys-master/maviTrImages/hac/h77/10176415137822/Default-MainProductImage_",
-      "//sky-static.mavi.com/sys-master/maviTrImages/hd9/h28/10176414908446/Default-MainProductImage_",
-      "//sky-static.mavi.com/sys-master/maviTrImages/hd3/h7e/10176415367198/Default-MainProductImage_",
-      "//sky-static.mavi.com/sys-master/maviTrImages/hfb/h85/10176415596574/Default-MainProductImage_"
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hb4/h1e/10176414613534/Default-MainProductImage_",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/h3d/h15/10176414384158/Default-MainProductImage_",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hac/h77/10176415137822/Default-MainProductImage_",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hd9/h28/10176414908446/Default-MainProductImage_",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hd3/h7e/10176415367198/Default-MainProductImage_",
+      "https://sky-static.mavi.com/sys-master/maviTrImages/hfb/h85/10176415596574/Default-MainProductImage_"
     ],
     "color": "Beyaz"
   }

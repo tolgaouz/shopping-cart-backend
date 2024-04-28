@@ -1,5 +1,5 @@
 import express, { Response } from "express";
-import { PrismaClient, Shirt } from "@prisma/client";
+import { Prisma, PrismaClient, Shirt } from "@prisma/client";
 import { z } from "zod";
 import { shirtModel } from "@/prisma/zod/shirt";
 import { prisma } from "@/prisma";
@@ -28,60 +28,53 @@ router.get(
     const {
       page = 1,
       limit = 10,
-      outerMaterial,
-      innerMaterial,
-      brand,
       minPrice,
       maxPrice,
       search,
+      color,
+      material,
     } = req.query;
 
-    let queryOptions: any = {
-      take: parseInt(limit as string),
-      skip: (parseInt(page as string) - 1) * parseInt(limit as string),
-      where: {
-        stock: {
-          gt: 0,
-        },
-      },
-      orderBy: {
-        id: "asc",
-      },
-    };
+    const where: Prisma.ShirtWhereInput = {};
 
-    if (outerMaterial) {
-      queryOptions.where.outerMaterial = outerMaterial;
+    if (material) {
+      where.material = material as string;
     }
 
-    if (innerMaterial) {
-      queryOptions.where.innerMaterial = innerMaterial;
-    }
-
-    if (brand) {
-      queryOptions.where.brand = brand;
+    if (color) {
+      where.color = color as string;
     }
 
     if (minPrice && maxPrice) {
-      queryOptions.where.price = {
+      where.price = {
         gte: parseInt(minPrice as string),
         lte: parseInt(maxPrice as string),
       };
     } else if (minPrice) {
-      queryOptions.where.price = {
+      where.price = {
         gte: parseInt(minPrice as string),
       };
     } else if (maxPrice) {
-      queryOptions.where.price = {
+      where.price = {
         lte: parseInt(maxPrice as string),
       };
     }
 
     if (search) {
-      queryOptions.where.title = {
-        contains: search,
+      where.title = {
+        contains: search as string,
         mode: "insensitive",
       };
     }
+
+    const queryOptions: Prisma.ShirtFindManyArgs = {
+      take: parseInt(limit as string),
+      skip: (parseInt(page as string) - 1) * parseInt(limit as string),
+      where,
+      orderBy: {
+        id: "asc",
+      },
+    };
 
     try {
       const [shirts, totalShirts] = await Promise.all([
@@ -89,7 +82,10 @@ router.get(
         prisma.shirt.count({ where: queryOptions.where }),
       ]);
       const totalPages = Math.ceil(totalShirts / parseInt(limit as string));
-      const isLastPage = parseInt(page as string) === totalPages;
+      const isLastPage =
+        totalPages !== 0
+          ? Math.max(1, parseInt(page as string)) === totalPages
+          : true;
 
       res.json({
         shirts,
@@ -158,7 +154,7 @@ router.post("/", async (req, res) => {
         .status(400)
         .json({ message: "Invalid shirt data", errors: error.errors });
     }
-    res.status(500).json({ message: "Failed to create shoe" });
+    res.status(500).json({ message: "Failed to create shirt" });
   }
 });
 
@@ -168,10 +164,10 @@ router.delete("/:id", async (req, res) => {
     await prisma.shirt.delete({
       where: { id },
     });
-    res.json({ message: "Shoe deleted successfully" });
+    res.json({ message: "Shirt deleted successfully" });
   } catch (error) {
-    console.error("Failed to delete shoe:", error);
-    res.status(500).json({ message: "Failed to delete shoe" });
+    console.error("Failed to delete shirt:", error);
+    res.status(500).json({ message: "Failed to delete shirt" });
   }
 });
 
