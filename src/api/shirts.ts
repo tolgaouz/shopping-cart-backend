@@ -33,6 +33,8 @@ router.get(
       search,
       color,
       material,
+      sortBy = "title",
+      sortOrder = "asc",
     } = req.query;
 
     const where: Prisma.ShirtWhereInput = {};
@@ -72,7 +74,7 @@ router.get(
       skip: (parseInt(page as string) - 1) * parseInt(limit as string),
       where,
       orderBy: {
-        id: "asc",
+        [sortBy as keyof Shirt]: sortOrder as Prisma.SortOrder,
       },
     };
 
